@@ -1,0 +1,56 @@
+Aptitude Assignments 1
+=======================
+1. The equations of the lines x=2 & y=4 meet at the point
+
+Ans. 2,4
+
+2. Equations 2X+3Y=9 & 7X+9Y=-6 have how many solutions?
+
+Ans.one Solutions
+
+
+3.Equation 7x+9y=-5 has how many keys?
+
+Ans. 
+       An equation does not have "keys". However, an equation such as 7x + 9y = -5 can have 
+infinitely many solutions, which correspond to the points where the straight line represented by the equation intersects the x and y axes in a two-dimensional coordinate system.
+
+4. Equation ax^2+bx+c=0 will be ............. for a=b=c=0
+
+Ans.   The equation ax^2 + bx + c = 0 will be satisfied for all values of x if a=b=c=0. This equation is known as the trivial solution and it represents a horizontal line with zero height that passes through all points in the x-axis.
+
+5. Income of A & B is in ratio 2:3. For example, if B’s income is Rs 3000, find
+out the ratio of their expenditures if their savings are Rs 500 & Rs 700,
+respectively.?
+
+Ans.     We are given that the income of A and B is in the ratio 2:3 and B's income is 3000.
+
+So, A's income can be calculated as follows:
+
+A's income = 3000 * 2 / (2 + 3) = 2000
+
+Let the expenditures of A and B be x and y, respectively.
+
+Their savings are given as 500 and 700, so we can write two equations to represent their savings:
+
+A's savings = 2000 - x = 500
+
+B's savings = 3000 - y = 700
+
+Now, we can use these equations to find x and y, which are the expenditures of A and B.
+
+Solving for x:
+2000 - x = 500
+x = 2000 - 500
+x = 1500
+
+Solving for y:
+3000 - y = 700
+y = 3000 - 700
+y = 2300
+
+Finally, the ratio of their expenditures can be calculated as follows:
+
+Ratio of expenditures = x / y = 1500 / 2300 = 5/9
+
+So, the expenditures of A and B are in the ratio of 5:9.
